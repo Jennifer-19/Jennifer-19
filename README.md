@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 🖤
 
-#Meu nome é Jennifer Luiza Sousa Rodrigues#
+Meu nome é Jennifer Luiza Sousa Rodrigues
 
 - Estou estudando no Alura
 - Estou me desenvolvendo na linguagem JavaScript
